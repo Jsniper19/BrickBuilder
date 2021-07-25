@@ -1,2 +1,2 @@
 # BrickBuilder
-Sashas brick builder game
+Amazing Smasha's Brick Builder game
